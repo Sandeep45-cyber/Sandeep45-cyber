@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sandeep Chinta</h1>
+<h1 align="center">Hi 👋, I'm Rama Venkata Sandeep Chinta</h1>
 <h3 align="center">
 AI / Data / Full-Stack Engineer · Building intelligent, scalable systems
 </h3>
