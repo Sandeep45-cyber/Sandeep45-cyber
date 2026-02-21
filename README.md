@@ -1,1 +1,66 @@
-# Rama-Venkata-Sandee-Chinta
+<h1 align="center">Hi 👋, I'm Sandeep Chinta</h1>
+<h3 align="center">
+AI / Data / Full-Stack Engineer · Building intelligent, scalable systems
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sandeep45-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🤖 Actively **learning and building AI agents** and **RAG pipelines** using **FastAPI**
+- 🧠 Exploring **agent orchestration, retrieval strategies, evaluation, and monitoring**
+- 🌐 Building **modern web applications** using **Next.js, React, and TypeScript**
+- 📊 Creating **analytics dashboards** using **Power BI** backed by **Snowflake**
+- 🛠 Focused on **production-ready systems** — clean APIs, scalable data flows, and real-world use cases
+- ⚡ I enjoy learning fast, shipping small, and continuously improving systems
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/chinta-sandeep-80927130b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:rvsandeepc@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Sandeep45-cyber&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandeep45-cyber&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep45-cyber&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+⭐️ Always curious about AI systems, data platforms, and building things that actually work in production.
